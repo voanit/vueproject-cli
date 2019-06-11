@@ -133,7 +133,6 @@ export default {
 
 8、第八步：npm run build
 
-<<<<<<< HEAD
 ## 完善框架vue-router+vuex+sass
 
 1、安装vue-router、vuex
@@ -194,8 +193,3 @@ proxyTable: {
 },
 ```
 请求地址由https://www.apiopen.top/journalismApi变为：/api/journalismApi
-=======
-
-
- 
->>>>>>> 1810eb9aea356e5a5893b5d4beed6c5690bae9c7
