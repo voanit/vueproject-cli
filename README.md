@@ -6,7 +6,7 @@ $ npm install webpack vue-cli -g
 2、第二步：使用vue init命令创建模板文件（如果这时报错vue不是指定命令，请看后文报错总结） 
 vue init 你用的模板工具 项目名称 (这里采用webpack作为模板工具)
 ```bash
-$ vue init webpack sharismSpace-personel
+$ vue init webpack vueproject-cli
 ```
 
 这样，我们就创建好了一个vue+webpack项目
