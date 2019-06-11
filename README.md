@@ -13,11 +13,19 @@ $ vue init webpack vueproject-cli
 
 3、第三步：安装element-ui
 ```bash
+<<<<<<< HEAD
 $ npm install -S element-ui 
 ```
 4、第四步：使用babel-plugin-component来实现element-ui模块按需加载
 ```bash
 $ npm install babel-plugin-component -D
+=======
+$ cnpm install -S element-ui 
+```
+4、第四步：使用babel-plugin-component来实现element-ui模块按需加载
+```bash
+$ cnpm install babel-plugin-component -D
+>>>>>>> 1810eb9aea356e5a5893b5d4beed6c5690bae9c7
 ```
 5、第五步：然后，在 .babelrc的plugins中添加element-ui组件配置：
  
@@ -125,6 +133,7 @@ export default {
 
 8、第八步：npm run build
 
+<<<<<<< HEAD
 ## 完善框架vue-router+vuex+sass
 
 1、安装vue-router、vuex
@@ -185,3 +194,8 @@ proxyTable: {
 },
 ```
 请求地址由https://www.apiopen.top/journalismApi变为：/api/journalismApi
+=======
+
+
+ 
+>>>>>>> 1810eb9aea356e5a5893b5d4beed6c5690bae9c7
